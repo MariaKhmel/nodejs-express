@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Dr. Jackie Bernhard",
+    "phone": "(436) 412-0462 x0828",
+    "email": "King_Collier82@hotmail.com",
+    "job": "Customer Web Planner"
+  },
+  {
+    "name": "Greg Wilkinson-Bradtke",
+    "phone": "479-617-6022 x98953",
+    "email": "Monserrate.Oberbrunner@hotmail.com",
+    "job": "Dynamic Applications Analyst"
+  },
+  {
+    "name": "Edmund Walsh",
+    "phone": "848.940.3052",
+    "email": "Austin.Jakubowski85@hotmail.com",
+    "job": "Direct Group Planner"
+  },
+  {
+    "name": "Tommie O'Conner",
+    "phone": "769-471-7587",
+    "email": "Haylee.Kling16@yahoo.com",
+    "job": "Central Marketing Liaison"
+  }
+]
