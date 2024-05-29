@@ -1,11 +1,11 @@
 import express from 'express';
-import products from './proudcts';
-console.log(products);
+// import products from './proudcts';
+// console.log(products);
 const app = express();
 
 
 app.get('/products', (req, res) => {
-    res.json(products);
+    // res.json(products);
 
 });
 
